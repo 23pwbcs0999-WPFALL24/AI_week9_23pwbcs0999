@@ -1,20 +1,4 @@
 """
-Connect Four (12x12) with Minimax AI
-------------------------------------
-
-Assignment requirements covered:
-- 12 x 12 board
-- Player A = Green
-- Player B = Yellow
-- Human vs Human mode
-- Human vs AI mode
-- Graphical User Interface (Tkinter)
-- Minimax with Alpha-Beta Pruning for the AI
-
-Run:
-    python connect_four_12x12.py
-"""
-
 import copy
 import math
 import random
